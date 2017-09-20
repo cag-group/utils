@@ -1,6 +1,6 @@
 {
   "name": "@cag-group/utils",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Various helpers, utilities and tools",
   "main": "lib/index.js",
   "scripts": {
