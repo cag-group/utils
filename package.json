@@ -1,0 +1,21 @@
+{
+  "name": "@cag-group/utils",
+  "version": "0.0.1",
+  "description": "Various helpers, utilities and tools",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cag-group/utils.git"
+  },
+  "devDependencies": {
+    "mocha": "~3.1.2",
+    "should": "^9.0.2",
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "basic-auth": "^2.0.0"
+  }
+}
